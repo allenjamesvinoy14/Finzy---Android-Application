@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "456864815316",
+    "firebase_url": "https://finapp-682f6.firebaseio.com",
+    "project_id": "finapp-682f6",
+    "storage_bucket": "finapp-682f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456864815316:android:cab7d22963cffec0",
+        "android_client_info": {
+          "package_name": "com.example.luci4.finapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "456864815316-5qi3r88h98me3c83vesopam3u7ge6364.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.luci4.finapp",
+            "certificate_hash": "1f54111eb8cb191ff3f31963e640649263bc3066"
+          }
+        },
+        {
+          "client_id": "456864815316-h4kbvm54qovclkgcau0vjcg9sethg3bo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAG1A1dxoxmZIe3oo7FN_473pIGG6tumjw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "456864815316-h4kbvm54qovclkgcau0vjcg9sethg3bo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
